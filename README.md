@@ -49,6 +49,10 @@ Created boxplots, barplots, histograms and correlation heatmaps.
 * Correlation analysis
 * Interpreting graphs and identifying patterns
 
+### 📜 Certification
+* **Kaggle Data Visualization** – [View Certificate](<img width="4800" height="2960" alt="Tannistha Kundu - Data Visualization (1)" src="https://github.com/user-attachments/assets/1970d6a7-dd60-4d7d-b2a6-1821365942f1" />
+)
+
 ## 🎯 Objective
 
 The project demonstrates how Python-based data analysis and visualization can be used to understand datasets, identify relationships between variables and communicate findings clearly.
